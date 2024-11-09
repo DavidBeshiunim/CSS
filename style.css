@@ -1,0 +1,18 @@
+/* ELEMENT SELECTOR */
+h3 {
+    color: black
+}
+
+/* GROUP SELECTOR */
+h4,
+p {
+    color: rgb(255, 0, 0);
+}
+
+/* CLASS SELECTOR */
+.myclass {
+    font-size: 20px;
+    color: azure;
+}
+
+/* ID SELECTOR */
